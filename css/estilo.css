@@ -34,13 +34,13 @@ body {
 }
 
 header {
-    background-color: cornflowerblue;
-    color: aqua;
+    background-color: rgb(114, 66, 224);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 .titulosuperior{
-    background-color:  #0a33ed;
+    background-color:  #5c308f;
     padding: 10px;
     letter-spacing: 5px;
 
@@ -50,7 +50,7 @@ header {
 
 .titulocentro {
     color: white;
-    font-family: 'Rubik', sans-serif;
+    font-family:'Times New Roman', Times, serif
     font-size: 40px;
     margin: 26px;  
     word-spacing: 8px;
@@ -60,7 +60,7 @@ header {
 
 .tituloinferior{
     font-size: 20px;
-    background-color: #0db7f7;
+    background-color: #6b49b9;
     color: white;
     text-align: right;
     padding: 10px;
